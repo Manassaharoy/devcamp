@@ -4,8 +4,11 @@
 
 
 ### Features:  
-Authentication, Profile page, Room creation based on topics, Chatting.  
-  
+<li>Authentication 
+  <li>Profile page
+  <li>Room creation based on topics 
+  <li>Chatting.  
+  <li>API using django rest framework
 
 
 
