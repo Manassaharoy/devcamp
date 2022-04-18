@@ -22,3 +22,5 @@
 
 ### Screenshots:  
 ![Homepage](https://github.com/Manassaharoy/devcamp/blob/main/mockups/homepage.png?raw=true)  
+![Room](https://github.com/Manassaharoy/devcamp/blob/main/mockups/room.png?raw=true)  
+![Profile](https://github.com/Manassaharoy/devcamp/blob/main/mockups/profile.png?raw=true)  
